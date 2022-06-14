@@ -1,0 +1,15 @@
+.BPMN-icon{
+    border-radius: 50%;
+    background-size: 60%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.BPMN-icon-start-event{
+    background-image: url("../../../../assets/start-event.png");
+}
+.BPMN-icon-task{
+    background-image: url("../../../../assets/bpmnTask.png");
+}
+.BPMN-icon-end-event{
+    background-image: url("../../../../assets/end-event.png");
+}
